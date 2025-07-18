@@ -20,6 +20,8 @@ The dashboard above shows the Facebook Ad campaign carried out and the various K
 
 
 INSIGHTS DRAWN
+
+
 <img width="390" height="210" alt="KPIs" src="https://github.com/user-attachments/assets/042e0546-869f-4d50-922a-5c005820a601" />
 
 
@@ -29,6 +31,8 @@ The total cost of this entire Facebook Ad campaign stood at $58,75.23, showcasin
 
 
 Analysis by Gender
+
+
 <img width="373" height="315" alt="Gender" src="https://github.com/user-attachments/assets/ae972d4c-7a8f-4e92-a8a6-e7b1e6c12d4c" />
 
 
@@ -36,6 +40,8 @@ The female gender had the highest clicks of the ad campaign, with 23,878 clicks 
 
 
 Analysis by Age
+
+
 <img width="379" height="192" alt="Table - age" src="https://github.com/user-attachments/assets/eb552a27-985d-4f72-8b44-b02b923fd872" />
 
 
@@ -45,6 +51,8 @@ Additionally, with the highest number of conversions, the ages between 30-34 hav
 
 
 Trend of cost spent
+
+
 <img width="1141" height="339" alt="Daily trend for cost" src="https://github.com/user-attachments/assets/7d69bf7e-5230-41a3-a99d-9d3189867acb" />
 
 
